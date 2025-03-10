@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Обо мне
 - 🌱 Сейчас я изучаю различные языки программирования и технологии
-- 👀 Интересуюсь веб-разработкой, искусственным интеллектом и открытым исходным кодом
+- 👀 Интересуюсь веб-разработкой, искусственным интеллектом
 - 💞️ Открыт для сотрудничества над интересными проектами
 
 ## 🛠 Мой стек технологий
@@ -25,6 +25,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KiryaScript&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Связь со мной
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Devorskiy)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/devjijlk)
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=flat-square&logo=vk&logoColor=white)](https://vk.com/devvorsky)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/414028016801546240)
