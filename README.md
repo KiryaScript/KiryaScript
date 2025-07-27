@@ -47,7 +47,9 @@
   <a href="https://github.com/KiryaScript?tab=repositories"><img src="https://img.shields.io/badge/Все%20репозитории-GitHub-2ff7e6?style=for-the-badge&logo=github"></a>
 </p>
 
-![пидр](https://media1.tenor.com/m/dModHRaXSlQAAAAC/rnar-%D1%81%D1%8C%D0%B5%D0%B1%D0%B0%D0%BB%D0%BE%D1%81%D1%8C%D1%87%D1%83%D0%B4%D0%B8%D1%89%D0%B5.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/dModHRaXSlQAAAAC/rnar-%D1%81%D1%8C%D0%B5%D0%B1%D0%B0%D0%BB%D0%BE%D1%81%D1%8C%D1%87%D1%83%D0%B4%D0%B8%D1%89%D0%B5.gif"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ff7e6&height=120&section=footer"/>
