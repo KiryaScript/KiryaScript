@@ -1,15 +1,40 @@
-## 📊 Статистика GitHub
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=KiryaScript&show_icons=true&theme=radical)
+Добро пожаловать на мой GitHub! Здесь вы найдете мои ключевые проекты, направленные на улучшение пользовательского опыта, свободы в интернете и автоматизацию.
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiryaScript&theme=dark)](https://git.io/streak-stats)
+---
 
-## 📈 Языки в моих репозиториях
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiryaScript&layout=compact&theme=vision-friendly-dark)
+## Основные репозитории
 
-## 🏆 Трофеи GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=KiryaScript&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### [discord-fix-app](https://github.com/KiryaScript/discord-fix-app)
+Простое приложение для исправления "типичных" проблем Discord на Windows.  
+**Возможности:**  
+- Получение доступа к многим сервисам в России
+- Быстрое восстановление работоспособности Discord|Youtube  
+- Консольный интерфейс
 
-## 🤝 Связь со мной
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/devjijlk)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/414028016801546240)
+### [FUCK_RKN](https://github.com/KiryaScript/FUCK_RKN)
+Инструменты и скрипты для обхода блокировок Роскомнадзора.  
+**Возможности:**  
+- Гайд по настройке VPN/Proxy  
+- Автоматизация обхода блокировок  
+- Вспомогательные скрипты для свободного доступа к информации
+
+### [discord-fix](https://github.com/KiryaScript/discord-fix)
+Старый но всё ещё рабочий гайд на исправление проблем с Discord.  
+**Возможности:**  
+- Подключение к VPN WireGuard    
+- Работа из командной строки
+
+### [kir-browser](https://github.com/KiryaScript/kir-browser)
+Экспериментальный браузер с открытым исходным кодом.  
+**Возможности:**  
+- Минималистичный дизайн  
+- Встроенные средства обхода блокировок  
+- Расширяемая архитектура
+
+---
+
+## Контакты и ресурсы
+
+- Блог: [kiryascript.github.io/FUCK_RKN/](https://kiryascript.github.io/FUCK_RKN/)
+- Telegram: [@KiryaScript](https://t.me/KiryaScript)
+- [Все репозитории на GitHub →](https://github.com/KiryaScript?tab=repositories)
