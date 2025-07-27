@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2FF7E6&center=true&vCenter=true&width=900&lines=Добро+пожаловать+на+мой+GitHub!;Open+Source+%F0%9F%9A%80+%7C+Автоматизация+%E2%9A%99%EF%B8%8F+%7C+Свобода+%F0%9F%92%AA" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=3000&pause=954&color=F71E00&width=435&lines=Welcome+to+my+GitHub!;Open+Source;Automation;Freedom" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows%20/%20Linux-00aaff?style=for-the-badge&logo=windows&logoColor=white&labelColor=282828">
