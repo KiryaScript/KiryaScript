@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://kiryascript.github.io/FUCK_RKN/"><img src="https://img.shields.io/badge/Блог-FUCK_RKN-blueviolet?style=for-the-badge"></a>
-  <a href="https://t.me/devjijlk"><img src="https://img.shields.io/badge/Telegram-@KiryaScript-2ca5e0?style=for-the-badge&logo=telegram"></a>
+  <a href="https://t.me/devjijlk"><img src="https://img.shields.io/badge/Telegram-@devjijlk-2ca5e0?style=for-the-badge&logo=telegram"></a>
   <a href="https://github.com/KiryaScript?tab=repositories"><img src="https://img.shields.io/badge/Все%20репозитории-GitHub-2ff7e6?style=for-the-badge&logo=github"></a>
 </p>
 
