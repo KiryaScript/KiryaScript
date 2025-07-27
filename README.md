@@ -25,7 +25,7 @@
 
 | <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="32"/> [discord-fix-app](https://github.com/KiryaScript/discord-fix-app) | <img src="https://img.icons8.com/?size=100&id=HKxlc3dLYMLS&format=png&color=000000" width="32"/> [FUCK_RKN](https://github.com/KiryaScript/FUCK_RKN) | <img src="https://img.icons8.com/?size=100&id=10250&format=png&color=FFFFFF" width="32"/> [discord-fix](https://github.com/KiryaScript/discord-fix) | <img src="https://img.icons8.com/?size=100&id=c84A8yTomT5p&format=png&color=000000" width="32"/> [kir-browser](https://github.com/KiryaScript/kir-browser) |
 |:---:|:---:|:---:|:---:|
-| Простое приложение для исправления "типичных" проблем Discord на Windows.<br>**Возможности:**<br>• Доступ к сервисам в РФ<br>• Восстановление Discord/Youtube<br>• Консольный интерфейс | Инструменты для обхода блокировок РКН.<br>**Возможности:**<br>• Гайд по VPN/Proxy<br>• Автоматизация обхода<br>• Вспомогательные скрипты | Старый, но рабочий гайд по Discord.<br>**Возможности:**<br>• WireGuard VPN<br>• CLI-утилита | Экспериментальный браузер.<br>**Возможности:**<br>• Минимализм<br>• Обход блокировок<br>• Расширяемость |
+| Простое приложение для исправления "[типичных](https://habr.com/ru/news/849134/)" проблем Discord на Windows.<br>**Возможности:**<br>• Доступ к сервисам в РФ<br>• Восстановление Discord/Youtube<br>• Консольный интерфейс | Инструменты для обхода блокировок РКН.<br>**Возможности:**<br>• Гайд по VPN/Proxy<br>• Автоматизация обхода<br>• Вспомогательные скрипты | Старый, но рабочий гайд по Discord.<br>**Возможности:**<br>• WireGuard VPN<br>• CLI-утилита | Экспериментальный браузер.<br>**Возможности:**<br>• Минимализм<br>• Обход блокировок<br>• Расширяемость |
 
 ---
 
