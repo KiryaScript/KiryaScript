@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows%20/%20Linux-00aaff?style=for-the-badge&logo=windows&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/Language-Russian-blueviolet?style=for-the-badge&logo=github">
-  <img src="https://media1.tenor.com/m/ZVmtJFHswuwAAAAC/cat-girl-anime-cat-girl.gif">
+  <img src="https://i.yapx.ru/aEPf3.gif">
 </p>
 
 ---
