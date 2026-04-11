@@ -62,8 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api?username=KiryaScript&type=now-playing&theme=tokyonight" alt="Now Playing on Spotify" />
-</p>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=8f05ff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&redirect=true)
 
 <details>
   <summary align="center"><b>🤐 Пссс, парень... (Не нажимай!)</b></summary>
