@@ -62,7 +62,10 @@
 </p>
 
 <p align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=8f05ff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&redirect=true)
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=8f05ff" alt="Now Playing on Spotify" />
+  </a>
+</p>
 
 <details>
   <summary align="center"><b>🤐 Пссс, парень... (Не нажимай!)</b></summary>
