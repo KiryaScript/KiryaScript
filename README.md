@@ -26,14 +26,6 @@
 
 ---
 
-### 📦 Основные репозитории
-
-| <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="24"/> [discord-fix-app](https://github.com/KiryaScript/discord-fix-app) | <img src="https://img.icons8.com/?size=100&id=HKxlc3dLYMLS&format=png&color=000000" width="24"/> [FUCK_RKN](https://github.com/KiryaScript/FUCK_RKN) | <img src="https://img.icons8.com/?size=100&id=10250&format=png&color=FFFFFF" width="24"/> [discord-fix](https://github.com/KiryaScript/discord-fix) | <img src="https://img.icons8.com/?size=100&id=c84A8yTomT5p&format=png&color=000000" width="24"/> [kir-browser](https://github.com/KiryaScript/kir-browser) |
-|:---|:---|:---|:---|
-| Приложение для фикса Discord на Windows.<br><br>**Фичи:**<br>• Доступ к сервисам в РФ<br>• Восстановление Youtube | Скрипты для автоматизации обхода блокировок.<br><br>**Фичи:**<br>• Гайды по VPN/Proxy<br>• Утилиты | Старый, но рабочий гайд по Discord.<br><br>**Фичи:**<br>• WireGuard VPN<br>• CLI-утилита | Экспериментальный браузер.<br><br>**Фичи:**<br>• Минимализм<br>• Обход блокировок |
-
----
-
 ### 📊 Статистика & Активность
 
 <div align="center">
