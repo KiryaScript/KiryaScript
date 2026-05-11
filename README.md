@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=8f05ff" alt="Now Playing on Spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
 </p>
 
