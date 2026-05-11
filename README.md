@@ -54,10 +54,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
-  </a>
-</p>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zitnmowecsjts4kkcs3dcb2irm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)]
 
 <details>
   <summary align="center"><b>🤐 Пссс, парень... (Не нажимай!)</b></summary>
